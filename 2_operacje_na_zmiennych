@@ -1,0 +1,28 @@
+<?php
+
+//wersja php
+
+echo PHP_VERSION;
+ech phpinfo
+
+$potega; = 2 ** 10;
+echo $potega;
+
+echo 'a','b','c' //a+b+c wyświetlic
+echo 'a','b','c' //wyswielic a wyswielic b wyswielic c
+
+//operatory bitowe
+//and &, or
+
+$x = 0b01010;
+echo "$x<br>"; //10
+$x = $x << 1;
+echo "$x<br>"; //10100(2) => 1+4=5
+
+// porównanie
+$x = 10
+$y = 1
+
+
+
+?>
